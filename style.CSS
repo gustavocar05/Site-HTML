@@ -1,0 +1,85 @@
+body{
+    background: #f7f7f7;;
+    font-family: Verdana;
+    max-width: 900px;
+    margin: auto;
+}
+
+#title, .subtitle, .post_title{
+
+color: rgb(28, 28, 31);
+}
+
+#title {
+    font-size: 40px;
+    text-transform: uppercase;
+}
+
+.post_title{
+
+    size: 16px;
+    font-style:italic ;
+    margin: 0;
+    margin-bottom: 15px;    
+
+}
+
+.Post_Netimoveis{
+
+    margin: 0;
+    margin-bottom: 1px;
+    border: 2px solid black;
+    width: 100%;
+}
+
+.Poste{
+    background: #fff;
+    padding: 16px ;
+    border: 3px solid #000;
+    margin: 0;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    text-transform: capitalize;
+    color: black;
+}
+
+.post_cont{
+    margin: 0;
+    margin-bottom: 15px;
+}
+
+.Post-Email{
+    margin: 0;
+    margin-bottom: 1px;
+    border: 2px solid black;
+    border-radius: 60%;
+    width: 40px;
+}
+
+.Post_Linkedin{
+    margin: 0;
+    margin-bottom: 1px;
+    border: 2px solid black;
+    border-radius: 50%;
+    width: 40px;
+
+}
+
+.Post_Github{
+    margin: 0;
+    margin-bottom: 1px;
+    border: 2px solid black;
+    border-radius: 50%;
+    width: 40px;
+}
+
+.Contact_List{
+
+    padding-left: 15px;
+    list-style-type: none;
+}
+
+.Contact_List li a {
+
+    text-decoration: none;
+}
