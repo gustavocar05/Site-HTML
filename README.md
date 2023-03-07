@@ -1,3 +1,3 @@
 # Site-HTML-CSS
-## my firts site 
-### i train my english for write more texts in GitHub
+## My firt site 
+### I  train my english for write more texts in GitHub
